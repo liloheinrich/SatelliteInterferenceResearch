@@ -36,7 +36,7 @@ Technical Narrative
 - Interference Analyses: no established power-flux density (“PFD”) limit for downlink (space-to-Earth) communications in the PCS G Block. Instead, Section 24.236 for PCS operations “predicted or measured median field strength at any location on the border of the PCS service area shall not exceed 47 dBμV/m unless the parties agree to a higher field strength.” SpaceX and T-Mobile have agreed to an appropriate field strength limit. Section 24.236 applies at borders between (a) the United States and Mexico and (b) the United States and Canada, the field strength limits can be converted into an equivalent PFD limit. SpaceX will maintain PFD levels below the equivalent PFD value at national borders and space downlink beams appropriately from those borders to protect primary terrestrial mobile operations from interference.
 
 - not as relevant:
-  - Each active satellite transmission chain (channel amplifiers and associated solid state power amplifier) can be individually turned on and off by ground telecommand, thereby causing cessation of emissions from the satellite
+  - Each active satellite transmission chain (channel amplifiers and associated solid state power amplifier) can be individually turned on and off by ground telecommand, ceasing emissions from the satellite
   - meet requirements for MSS emergency 911 services
 
 - sidenotes:
