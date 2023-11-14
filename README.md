@@ -42,5 +42,5 @@ Technical Narrative
 
 - sidenotes:
   - No GSO satellite networks filed for coordination in PCS G Block worldwide. In the future, refrain from imposing EPFD limits on NGSO systems since can co-exist with GSO services without EPFD limits, see ITU Radio Regs. 22.5C, 22.5D, 22.5F
-  - German Administration submitted on SpaceX’s behalf, for operations outside of the United States, the MARS-VLS and MARS-ULS ITU filings contemplate 1429 MHz to 2690 MHz. provide protections for services allocated under Safety-of-Life, Radio Astronomy, Space Research, Radionavigation Satellite, Aeronautical Radionavigation, and Space Operations
+  - German Administration submitted on SpaceX’s behalf to ITU, operations outside of the United States MARS-VLS and MARS-ULS contemplate 1429 MHz to 2690 MHz. protect services allocated under Safety-of-Life, Radio Astronomy, Space Research, Radionavigation Satellite, Aeronautical Radionavigation, and Space Operations
   - orbital debris mitigation discussion from the Gen2 system application and authorization, see Letter from David Goldman to Marlene H. Dortch, IBFS File Nos. SAT-LOA-20200526-00055 and SAT-AMD-20210818-00105, at 1-5 (Aug. 19, 2022)
