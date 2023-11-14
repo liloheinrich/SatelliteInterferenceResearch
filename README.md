@@ -17,8 +17,8 @@ Application: Space Station -> Amendment to a Pending Application -> Mobile Satel
 Technical Narrative
 - 1910-1915 MHz uplink E-s and 1990-1995 MHz downlink s-E bands PCS G Block
 - up to 7,500 satellites at orbital shells at 525 km, 530 km, and 535 km altitudes. maintain apogee and perigee within an altitude range of -50 km to +45 km. inclination maintained to less than 0.5 degrees of the respective target values. right ascension of the ascending nodes (“RAANs”) precess and span the full range of 0-360 degrees. See Direct-to-Cell_MSS_T.mdb 
-- Geographical Coverage: ±58° latitude by mid-2024, entirety of the contiguous United States, Hawaii, Puerto Rico, and the majority of Southeast Alaska, Kodiak, and the Aleutian Islands—all locations where T-Mobile has exclusive access to the PCS G Block
-- Swarm: 150 small NGSO satellites, narrowband services in 137-138 MHz and 148-150.5 very-high frequency (“VHF”) MSS bands, use to enable satellite connectivity for LTE devices (cell phones + LTE-capable IoT devices) to encompass all ranges of data rates and power levels.
+- cover ±58° latitude by mid-2024, entirety of the contiguous United States, Hawaii, Puerto Rico, and the majority of Southeast Alaska, Kodiak, and the Aleutian Islands—all locations where T-Mobile has exclusive access to the PCS G Block
+- Swarm 150 small NGSO satellites, narrowband services in 137-138 MHz and 148-150.5 very-high frequency (“VHF”) MSS bands, use to enable satellite connectivity for LTE devices (cell phones + LTE-capable IoT devices) to encompass all ranges of data rates and power levels.
 - voice, messaging, and basic web browsing at theoretical peak speeds of up to either 3.0 Mbps or 7.2 Mbps peak upload (Earth-to-space) over 1.4 MHz or 5 MHz bandwidth channels per beam, respectively, and up to either 4.4 Mbps or 18.3 Mbps on the downlink (space-to-Earth) over the 1.4 MHz channels or the 5 MHz channel per beam, respectively.
 - 3GPP LTE Layer 2 concepts allow per-user scheduling as low as one resource block centered at any frequency within the 5 MHz spectrum
 - multiple beams per satellite, beam centers remain stationary on the ground
@@ -28,7 +28,7 @@ Technical Narrative
 - channelized frequency plan of three or four 1.4 MHz downlink channels or one 5 MHz downlink channel and 1.4 MHz channels or one 5 MHz channels on the uplink with center frequency set appropriately within the 5 MHz PCS G Block uplink or downlink band
 - no more than a peak antenna gain of 38 dBi, peak Effective Isotropic Radiated Power (“EIRP”) of 58 dBW, and peak EIRP density of -2.33 dBW/Hz (per 1.4 MHz channel)
 - transmit with circular polarization using L-band antennas
-- uplink from certified mobile handsets with **vertical polarization**
+- uplink from certified mobile handsets with vertical polarization
 - operate without causing harmful interference to or requiring protection from any other service duly licensed in these bands
 - operate pursuant to a cooperative agreement with T-Mobile’s primary terrestrial mobile operations
 - protect adjacent band operations from harmful interference
