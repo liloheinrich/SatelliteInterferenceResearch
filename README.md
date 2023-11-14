@@ -23,7 +23,7 @@ Proposed Solutions:
 
 ## NGSO-NGSO Interference Regulation Metrics
 - Degraded Throughput based on ITU Article 22.5L NGSO-GSO and Resolution 770 Methodology
-  - Monte Carlo simulation over a year of C/N with and without interfering constellation, worst case pointing angles and sidelobes, and add rain attenuation cdf
+  - Monte Carlo simulation over a year of C/N with + without interfering constellation, worst case pointing angles and sidelobes, and add rain attenuation cdf
     - From the resulting cdf you can calculate spectral efficiency "throughput" reduction percentage, and with lowest C/N threshold you can calculate unavailability time percentage
     - Do we have to assume worst case pointing angles or is there any algorithmic analysis to be done? Randomized angles may underestimate  
   - How to deal with tolerances and uncertainty ranges? How to quantify confidence interval and num samples needed in order to converge to a sufficiently precise answer?
