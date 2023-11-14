@@ -30,13 +30,10 @@ Proposed Solutions:
 - How to calculate constellation's ground footprint over the course of a year like a heatmap of what area covered what percent of time - utilize constellation and orbital plane symmetry  
 
 ## SpaceX Direct-to-Cell
-Satellite Space Stations filings
-- SAT-MOD-20230207-00021 Application for Modification of Authorization
+- SAT-MOD-20230207-00021 Satellite Space Stations Application for Modification of Authorization for the SpaceX Gen2 NGSO Satellite System to Add a Direct-to-Cellular System
   - https://fcc.report/IBFS/SAT-MOD-20230207-00021
-- SAT-LOA-20200526-00055 Application to Launch and Operate
+- SAT-LOA-20200526-00055 Satellite Space Stations Application to Launch and Operate the SpaceX Gen2 NGSO Satellite System
   - https://fcc.report/IBFS/SAT-LOA-20200526-00055
-
-Modification of Authorization for the SpaceX Gen2 NGSO Satellite System to Add a Direct-to-Cellular System  
 
 "SpaceX requests authorization to operate its direct-to-cellular payload to communicate on an unprotected, non-interference basis in the 1910-1915 MHz uplink E-s and 1990-1995 MHz downlink s-E bands PCS G Block with off-the-shelf cellular mobile devices otherwise authorized by the Commission to operate in the same frequencies."  
 
