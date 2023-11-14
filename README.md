@@ -31,8 +31,10 @@ Proposed Solutions:
 
 ## SpaceX Direct-to-Cell
 Satellite Space Stations filings
-- SAT-MOD-20230207-00021 Application for Modification of Authorization https://fcc.report/IBFS/SAT-MOD-20230207-00021
-- SAT-LOA-20200526-00055 Application to Launch and Operate https://fcc.report/IBFS/SAT-LOA-20200526-00055
+- SAT-MOD-20230207-00021 Application for Modification of Authorization
+  - https://fcc.report/IBFS/SAT-MOD-20230207-00021
+- SAT-LOA-20200526-00055 Application to Launch and Operate
+  - https://fcc.report/IBFS/SAT-LOA-20200526-00055
 
 Modification of Authorization for the SpaceX Gen2 NGSO Satellite System to Add a Direct-to-Cellular System  
 
