@@ -29,6 +29,13 @@ Proposed Solutions:
   - How to deal with tolerances and uncertainty ranges? How to quantify confidence interval and num samples needed in order to converge to a sufficiently precise answer?
 - How to calculate constellation's ground footprint over the course of a year like a heatmap of what area covered what percent of time - utilize constellation and orbital plane symmetry  
 
+Starting point code:
+- https://github.com/OSSTP/DynamicInterferenceToNoise  
+  - Needs update, not the most recent
+- https://www.mathworks.com/help/satcom/ug/interference-from-satellite-constellation-on-comms-link.html  
+- https://github.com/OSSTP/LinkBudgetCalculator  
+- https://github.com/OSSTP/LinkBudgetWebServer  
+
 ## SpaceX Direct-to-Cell
 - SAT-MOD-20230207-00021 Satellite Space Stations Application for Modification of Authorization for the SpaceX Gen2 NGSO Satellite System to Add a Direct-to-Cellular System
   - https://fcc.report/IBFS/SAT-MOD-20230207-00021
