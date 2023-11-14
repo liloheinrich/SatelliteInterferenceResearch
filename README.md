@@ -9,7 +9,7 @@ Proposed Solutions:
     - Share accurate satellite position data
     - Becomes less effective the more satellites there are
   - Space telescopes like James Webb
-  - Hardware radio filters on satellites to mitigate out of band transmissions and protect RAS
+  - Hardware radio filters on satellites to mitigate out of band transmissions and protect RAS (OneWeb)
 - Coordination
   - NRAO VLA and SpaceX collaborate on experiments to study interference from FSS to RAS
     - Steer satellite transmitters away from telescope sites
@@ -17,7 +17,7 @@ Proposed Solutions:
   - Center for Protection of the Dark and Quiet Sky (CPS) hub bringing together all stakeholders
 - Policy
   - Find ways to inform FSS about RAS operations to allow them to adjust operations to avoid those downlink channels - NRAO Dr. Chris De Pree
-    - Create database of telescope activity and incorporate into beam planning; steer around, reschedule beams, or turn off channels
+    - Create database of telescope activity and incorporate into beam planning; steer around, reschedule beams, turn off channels
   - Regulate limits on radio frequency interference (RFI)
     - EPFD and Interference-to-Noise (I/N) recommendations
 
