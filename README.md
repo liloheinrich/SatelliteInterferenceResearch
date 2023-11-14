@@ -25,10 +25,7 @@ Technical Narrative
 - channelized frequency plan of three or four 1.4 MHz downlink channels or one 5 MHz downlink channel and 1.4 MHz channels or one 5 MHz channels on the uplink with center frequency set appropriately within the 5 MHz PCS G Block uplink or downlink band
 - no more than a peak antenna gain of 38 dBi, peak EIRP 58 dBW, peak EIRP density of -2.33 dBW/Hz (per 1.4 MHz channel)
 - transmit with circular polarization using L-band antennas
-- operate without causing harmful interference to or requiring protection from any other service duly licensed in these bands
-- operate pursuant to a cooperative agreement with T-Mobile’s primary terrestrial mobile operations
-- protect adjacent band operations from harmful interference
-- operate in the PCS G Block on a non-protected, non-interference basis
+-operate in the PCS G Block on a non-protected, non-interference basis, without causing harmful interference to or requiring protection from any other service duly licensed in these bands, cooperative agreement with T-Mobile’s primary terrestrial mobile operations, protect adjacent band operations from harmful interference
 - all downlink spot beams independently steerable. coverage area for each user beam is a cell inside the -3 and -5 dB contour (see img) with optionality for either contour size. At a given center frequency, only a single beam typically would cover a user cell on the ground from a given satellite. implement frequency reuse factors to minimize interference and provide a high-performance experience to the user.
 - carrier frequency of each space station transmitter shall be maintained within 0.002 percent frequency tolerance
 - no established PFD limit for downlink in PCS G Block. Instead, Section 24.236 for PCS operations “predicted or measured median field strength at any location on the border of the PCS service area shall not exceed 47 dBμV/m unless the parties agree to a higher field strength”, converted into equivalent PFD limit. SpaceX and T-Mobile have agreed to an appropriate field strength limit. Section 24.236 applies at borders between US and Mexico, and US and Canada. SpaceX will maintain PFD levels below at national borders and space out downlink beams appropriately from those borders to protect primary terrestrial mobile operations from interference.
