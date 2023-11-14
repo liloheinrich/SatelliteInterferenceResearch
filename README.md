@@ -10,13 +10,13 @@ Satellite Space Stations filings
 
 Modification of Authorization for the SpaceX Gen2 NGSO Satellite System to Add a Direct-to-Cellular System  
 
-"SpaceX requests authorization to operate its direct-to-cellular payload to communicate on an unprotected, non-interference basis in the **1910-1915 MHz uplink E-s** and **1990-1995 MHz downlink s-E** bands PCS G Block with off-the-shelf cellular mobile devices otherwise authorized by the Commission to operate in the same frequencies."  
+"SpaceX requests authorization to operate its direct-to-cellular payload to communicate on an unprotected, non-interference basis in the 1910-1915 MHz uplink E-s and 1990-1995 MHz downlink s-E bands PCS G Block with off-the-shelf cellular mobile devices otherwise authorized by the Commission to operate in the same frequencies."  
 
 Application: Space Station -> Amendment to a Pending Application -> Mobile Satellite Service -> 1910-1995 MHz -> Non−Geostationary Space Station -> authorization to add new emission designator and related service, antenna, and frequency
 
 Technical Narrative
 - 1910-1915 MHz uplink E-s and 1990-1995 MHz downlink s-E bands PCS G Block
-- up to 7,500 satellites at orbital shells at 525 km, 530 km, and 535 km altitudes. maintain apogee and perigee within an altitude range of -50 km to +45 km. inclination maintained to less than 0.5 degrees of the respective target values. right ascension of the ascending nodes (“RAANs”) precess and span the full range of 0-360 degrees. See Direct-to-Cell_MSS_T.mdb 
+- up to 7,500 satellites at orbital shells at 525 km, 530 km, and 535 km altitudes. maintain apogee and perigee within an altitude range of -50 km to +45 km. inclination maintained to less than 0.5 degrees of the respective target values. RAANs precess and span the range of 0-360 degrees. See Direct-to-Cell_MSS_T.mdb 
 - cover ±58° latitude by mid-2024, entirety of the contiguous United States, Hawaii, Puerto Rico, and the majority of Southeast Alaska, Kodiak, and the Aleutian Islands - where T-Mobile has exclusive access to PCS G Block
 - Swarm 150 small NGSO satellites, narrowband services in 137-138 MHz and 148-150.5 very-high frequency (“VHF”) MSS bands, use to enable satellite connectivity for LTE devices (cell phones + LTE-capable IoT devices) to encompass all ranges of data rates and power levels.
 - voice, messaging, basic web browsing at theoretical peak speeds of up to either 3.0 Mbps or 7.2 Mbps peak upload (Earth-to-space) over 1.4 MHz or 5 MHz bandwidth channels per beam, respectively, and up to either 4.4 Mbps or 18.3 Mbps on the downlink (space-to-Earth) over the 1.4 MHz channels or the 5 MHz channel per beam, respectively.
