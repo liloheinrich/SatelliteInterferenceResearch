@@ -1,6 +1,6 @@
 # Satellite Interference Research
 
-## NGSO Interference with Radioastronomy Service (RAS) in V-Band
+## NGSO Interference with Radioastronomy Service (RAS)
 https://www.youtube.com/@spectrumxcenter/videos
 
 Proposed Solutions:
